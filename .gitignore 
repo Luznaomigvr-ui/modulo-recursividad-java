@@ -1,0 +1,19 @@
+# NetBeans
+build/
+dist/
+nbproject/private/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Java
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
